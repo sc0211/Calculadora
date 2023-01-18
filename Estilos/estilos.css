@@ -1,0 +1,41 @@
+body{
+    width: 100%;
+    height: auto;
+    background-color: rgb(251, 251, 190);
+}
+
+#tableee{
+    border:1;
+    margin:auto;
+    width: 100%;
+}
+
+#divvv{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 30px;
+}
+.divvv button{
+
+}
+.color_display{
+    height:30px;
+    width: 95%;
+    background-color:#000;
+    border:medium #FFF;
+    font: "Space Age";
+    color:#0F0;
+    font-size: 18px;
+    text-align: right;
+    padding: 5px;
+}
+.numero{
+    display:block;
+    width: 100%;
+
+}
+
+table tr td { 
+    width: 1px;
+}
